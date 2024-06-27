@@ -1,7 +1,7 @@
 {
   "name": "nest-prisma-rest",
   "version": "0.0.1",
-  "description": "",
+  "description": "Nest JS + Prisma ORM + RDBMS - REST api",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
