@@ -11,7 +11,7 @@ Please wait, coming soon.
 
 `Nest JS for REST Api`
 
-[Nest JS + Prisma ORM + RDBMS - rest api](https://github.com/Bonekyaw/nest-prisma-sql-rest)  
+[Nest JS + Prisma ORM + RDBMS - rest api](https://github.com/Bonekyaw/nest-prisma-sql-rest) - Now you are here  
 
 `Node Express JS For REST Api`
 
@@ -31,4 +31,4 @@ Please wait, coming soon.
 
 `Mobile Application Development`
 
-[React Native Expo](https://github.com/Bonekyaw/react-native-expo) - Now you are here
+[React Native Expo](https://github.com/Bonekyaw/react-native-expo)
