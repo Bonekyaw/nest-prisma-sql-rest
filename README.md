@@ -11,7 +11,11 @@ Please wait, coming soon.
 
 `Nest JS for REST Api`
 
-[Nest JS + Prisma ORM + RDBMS - rest api](https://github.com/Bonekyaw/nest-prisma-sql-rest) - Now you are here  
+[Nest JS + Prisma ORM - REST api](https://github.com/Bonekyaw/nest-prisma-sql-rest) - Now you are here  
+
+`Nest JS for Graphql Api`
+
+[Nest JS + Prisma ORM - Graphql api](https://github.com/Bonekyaw/nest-prisma-graphql) - Now you are here  
 
 `Node Express JS For REST Api`
 
