@@ -15,7 +15,7 @@ Please wait, coming soon.
 
 `Nest JS for Graphql Api`
 
-[Nest JS + Prisma ORM - Graphql api](https://github.com/Bonekyaw/nest-prisma-graphql) - Now you are here  
+[Nest JS + Prisma ORM - Graphql api](https://github.com/Bonekyaw/nest-prisma-graphql)  
 
 `Node Express JS For REST Api`
 
